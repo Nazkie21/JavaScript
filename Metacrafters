@@ -33,8 +33,8 @@ function getTotalSupply () {
 }
 
 // call your functions below this line
-mintNFT ("Nathaniel", "John", "Quilao", 20);
-mintNFT ("Sydney", "Perez", "Nadarisay", 18);
-mintNFT ("Andrei", "Louis", "Gabarda", 20);
+mintNFT ("Trev", "Green", "Tank Top", "Choker");
+mintNFT ("Frank", "Brown", "Sweatshirt", "Gold Chains");
+mintNFT ("Mike", "Blue", "Suit", "Diamond Necklace");
 listNFTs();
 getTotalSupply();
